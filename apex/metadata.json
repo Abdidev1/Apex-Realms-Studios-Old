@@ -1,0 +1,6 @@
+{
+  "name": "Apex Realms Studios - Next-Gen Roblox Game Studio",
+  "description": "Apex Realms Studios: indie Roblox game studio building awesome obbies, survival and adventure games with 5.6K+ visits and a 1.0K+ strong community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
